@@ -136,11 +136,16 @@ OLA-Data-Analysis/
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshots here)
+## Home Page
 
-Example:
+![Dashboard Preview](OLA%20Home.png)
 
-![Dashboard Screenshot](images/dashboard.png)
+## Vechical Type
+![Dashboard Preview](OLA_Vechical_type.png)
+
+## Revenue
+![Dashboard Preview](OLA_revenu.png)
+
 
 ---
 
